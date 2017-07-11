@@ -7,5 +7,7 @@ public class Main {
         System.out.printf("Hello");
 
         System.out.printf("Hello World");
+
+        System.out.println("Third commit");
     }
 }
